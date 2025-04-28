@@ -1,0 +1,5 @@
+# S3 bucket paths for clickstream pipeline data storage
+
+raw_data: s3://clickstream/raw/
+features: s3://clickstream/features/
+user_segments: s3://clickstream/user_segments/

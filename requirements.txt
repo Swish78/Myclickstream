@@ -1,0 +1,15 @@
+# Core dependencies
+kafka-python
+pyspark
+apache-airflow
+streamlit
+
+# Data processing and visualization
+pandas
+plotly
+
+# Configuration and utilities
+pyyaml
+
+# AWS SDK for S3 integration
+boto3
